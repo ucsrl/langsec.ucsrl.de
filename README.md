@@ -1,30 +1,44 @@
-# Language-based Security 
-- **Speaker**: Prof. Dr. Stefan Brunthaler
+# Language-based Security
+- **Lecturer**: [Prof. Dr. Stefan Brunthaler](https://www.unibw.de/ucsrl-en/staff/univ-prof-dr-stefan-brunthaler)
 - **Language** EN
-- **Location**: TBD
-- **Date**: TBD
+- **Location**: TU Munich: Seminar room 01.07.014
+- **Date**: April 28th -- July 28th, 2022 (Summer semester of 2022)
 - **Module**: IN2362 (5 ECTS)
 
 ## News
-- TBD
+- The course will be held at TUM in presence again!
 
 ## Contents
 
-- run-time organization of programs
-  - code injection attacks and defenses
-  - buffer overflows and stack canaries
-  - control-flow hijacking and control-flow integrity
-- code re-use attacks and defenses
-  - return-oriented programming and software diversity
-  - counterfeit object-oriented programming (COOP)
-- data attacks
-  - non-control data attacks and data-flow integrity/randomization
-- current topics
-  - theoretical limits of control-flow integrity
-  - trends in software diversity
+### Lecture Topics
+- Run-time Organization of Programs
+  - Code Injection Attacks and Defenses
+  - Buffer overflows and Stack Canaries
+  - Control-flow hijacking and Control-Flow Integrity
+- Code Re-use Attacks and Defenses
+  - Return-oriented Programming and Software Diversity
+  - Counterfeit object-oriented programming (COOP)
+  - Just-in-time Return-oriented Programming (JIT-ROP)
+  - Address-Oblivious Code Reuse (AOCR)
+- Data Attacks
+  - Non-control Data Attacks and Data-Flow Integrity/Randomization
+- Transient Execution Attacks
+  - Overview of Spectre attacks and defenses
+- Information Flow Tracking in JavaScript
+
+
+### Lab Assignments
+The lab assignments are designed to reinforce understanding the contents described in the lectures.
+There is a total of five lab assignments with the following contents:
+1. Buffer overflows and stack canaries.
+2. Code-reuse attacks and software diversity: Instruction Granularity
+3. Code-reuse attacks and software diversity: Super-Instruction Granularity
+4. Timing-based Side Channel Attacks and Defenses
+5. Comprehension of Language-based Security through system analysis
+
 
 ## Lecture Slides & Lab Assignments
-Please find the lecture slides as well as the lab assignments in moodle.
+The lecture slides will be made available via the ILIAS course management software.
 
 ## Exam
 The examination is an oral examination (60 minutes) in two parts (weighting 50/50).
