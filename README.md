@@ -2,6 +2,7 @@
 - **Lecturer**: [Prof. Dr. Stefan Brunthaler](https://www.unibw.de/ucsrl-en/staff/univ-prof-dr-stefan-brunthaler)
 - **Language** EN
 - **Location**: TU Munich: Seminar room 01.07.014
+- **Time**: 10am - 12pm
 - **Date**: April 28th -- July 28th, 2022 (Summer semester of 2022)
 - **Module**: IN2362 (5 ECTS)
 
