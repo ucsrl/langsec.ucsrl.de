@@ -1,13 +1,14 @@
 # Language-based Security
 - **Lecturer**: [Prof. Dr. Stefan Brunthaler](https://www.unibw.de/ucsrl-en/staff/univ-prof-dr-stefan-brunthaler)
 - **Language** EN
-- **Location**: TU Munich: Seminar room 01.07.014
-- **Time**: 10am - 12pm
-- **Date**: April 28th -- July 28th, 2022 (Summer semester of 2022)
+- **Location**: TU Munich: [Seminar room 02.07.014](https://nav.tum.de/room/5607.02.014)
+- **Time**: 16:00 - 18:00
+- **Date**: April 18th -- July 18th, 2023 (Summer semester of 2023)
 - **Module**: IN2362 (5 ECTS)
 
 ## News
 - The course will be held at TUM in presence again!
+- The first lecture will be on **18.04.2023** - 16:00 - 18:00
 
 ## Contents
 
